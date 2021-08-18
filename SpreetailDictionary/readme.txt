@@ -14,5 +14,8 @@ To run the app,
 	MEMBEREXISTS <key> <value>  returns true if the key and value exist in the dictionary, otherwise false
 	ALLMEMBERS lists all of the individual values found in the dictionary for all keys 
 	ITEMS lists all of the items in the dictionary by key displaying the key and the value
+
+
+https://github.com/gcraig88keys/SpreetailDictionary.git
 	
 
