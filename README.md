@@ -1,0 +1,2 @@
+# SpreetailDictionary
+Spreetail Work Sample
